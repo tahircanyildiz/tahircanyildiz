@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahircanyildiz&label=Profile%20views&color=0e75b6&style=flat" alt="tahircanyildiz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahircanyildiz" alt="tahircanyildiz" /></a> </p>
-
 - 💬 Ask me about **.NET , .NET Core , ASP.NET , MVC , MVC Core**
 
 - 📫 How to reach me **tahircanyildiz@hotmail.com**
