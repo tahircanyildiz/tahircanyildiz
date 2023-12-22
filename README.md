@@ -1,4 +1,4 @@
- [![MasterHead](https://wallpapercave.com/wp/wp10272247.jpg)
+ ![MasterHead](https://wallpapercave.com/wp/wp10272247.jpg)
 <h1 align="center">Hi 👋, I'm Tahir Can Yıldız</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
 
