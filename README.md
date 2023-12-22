@@ -1,4 +1,4 @@
- [![MasterHead]([https://www.google.com.tr/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Faspnet-wallpapers&psig=AOvVaw1AFZQa0lTSALhuELvk4gwd&ust=1703323121572000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMij3KDbooMDFQAAAAAdAAAAABAD](https://wallpapercave.com/w/wp10272247))
+ [![MasterHead](https://wallpapercave.com/wp/wp10272247.jpg)
 <h1 align="center">Hi 👋, I'm Tahir Can Yıldız</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
 
