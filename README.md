@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahircanyildiz&label=Profile%20views&color=0e75b6&style=flat" alt="tahircanyildiz" /> </p>
 
-- 💬 Ask me about **.NET , .NET Core , ASP.NET , MVC , MVC Core**
+- 💬 Ask me about **.NET Core , ASP.NET , MVC , Javascript , Cypress , Selenium**
 
 - 📫 How to reach me **tahircanyildiz@hotmail.com**
 
